@@ -15,7 +15,7 @@ Année : 2020/2021
 1. [Règle et fonctionnement du Qwixx](#1---règle-et-fonctionnement-du-qwixx)
 2. [Organisation des fichiers](#2---organisation-des-fichiers)
 3. [Compilation et exécution](#3---compilation-et-exécution)
-4. [Comment jouer ?](#4---comment-jouer)
+4. [Comment jouer ?](#4---comment-jouer-)
 
 ## 1-- Règle et fonctionnement du Qwixx
 #### Principe générale
@@ -110,7 +110,7 @@ Pour exécuter un des trois programmes compilés (voir section ci-dessus), veuil
 Une fois l'exécutable lancé, vous serez invité à rentrer le nombre de joueur puis à saisir les pseudos à l'aide
 des touches du clavier. Le jeu est maintenant configuré : place à l'amusement !  
 
-###### Les touches :
+##### Les touches :
 - Pour **cocher une case** avec la **somme des dés blancs**, tapez l'**initial de la couleur de ligne** souhaitée (**r, j, g, b**).
 - Pour **cocher une case** avec un **dé blanc + un dé couleur**, tapez l'**initial de la couleur de ligne** souhaitée (**r, j, g, b)** 
 puis le **numéro de case**.
@@ -128,7 +128,7 @@ Les dés sont automatiquement lancés à chaque nouveau tour.
 Une fois l'exécutable lancé, vous serez invité à **rentrer le nombre de joueur**. **Cliquez** pour cela sur le bouton correspondant. Chaque joueur devra ensuite choisir son numéro de jeu (joueur 1, joueur 2, etc...).  
 Les actions à effectuer sont rappelées à gauche de l'écran dans le menu **Déroulement**. 
 
-###### Les touches :
+##### Les touches :
 - Pour **cocher une case**, **cliquez GAUCHE** sur la case souhaitée.
 - Pour **passer un tour**, **cliquez DROIT** n'importe où sur le fenêtre de jeu.
 - Pour **arrêter le jeu** en cours de partie, **clique GAUCHE** sur l'**icône de fermeture** (croix dans le coin supérieur droit de la fenêtre)
